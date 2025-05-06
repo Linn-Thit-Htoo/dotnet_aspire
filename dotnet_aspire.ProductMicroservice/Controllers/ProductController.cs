@@ -1,5 +1,4 @@
 ﻿using dotnet_aspire.ProductMicroservice.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace dotnet_aspire.ProductMicroservice.Controllers
